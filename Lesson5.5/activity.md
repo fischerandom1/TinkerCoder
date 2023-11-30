@@ -35,3 +35,5 @@ In this lesson, you will apply what you have learned to decorate the area around
 For more instructions, go to Lesson 5 in your book. Be sure to read all the instructions. There are also some sample ideas you may choose to build. 
 
 As you code, make sure you DO NOT delete any of the code that you have successfully used. At the end of the lesson, you can show off what you have built, and your code to your parent/guardian.
+
+*You must only use the blocks given here. If you are found to be using other blocks, or building yourself, the map will be reset and you will have to start over. No extra time will be given in this case.*
