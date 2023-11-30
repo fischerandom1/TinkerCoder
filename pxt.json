@@ -1,0 +1,19 @@
+{
+    "name": "TheBraineryCodeTinkerCoder",
+    "version": "0.0.1",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "Lesson5.5/activity.md"
+    ],
+    "targetVersions": {
+        "target": "1.20.0",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
