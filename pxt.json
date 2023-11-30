@@ -6,7 +6,14 @@
         "builder": "*"
     },
     "files": [
-        "Lesson5.5/activity.md"
+        "Lesson5.5/activity.md",
+        "Lesson5.8/activity.md",
+        "Lesson6.5/activity.md",
+        "Lesson6.6/activity.md",
+        "Lesson6.7-6.8/activity.md",
+        "Lesson7.5/activity.md",
+        "Lesson7.6/activity.md",
+        "Lesson7.7-7.8/activity.md"
     ],
     "targetVersions": {
         "target": "1.20.0",
