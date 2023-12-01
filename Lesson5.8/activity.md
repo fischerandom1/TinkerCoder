@@ -27,7 +27,7 @@ while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
 ```
 
 # Tinker Coder
-## Lesson 5.5
+## Lesson 5.8
 ### Welcome!
 
 In this lesson, you will apply what you have learned to decorate the area around the house behind you.
