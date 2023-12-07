@@ -20,6 +20,9 @@ agent.setItem(GRASS, 1, 1)
 agent.setSlot(1)
 agent.detect()
 
+if (true) {}
+if (agent.inspect(AgentInspection.Block, FORWARD) == GRASS && false) {} else {}
+
 for (let index = 0; index < 4; index++) {}
 
 while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
@@ -27,12 +30,12 @@ while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
 ```
 
 # Tinker Coder
-## Lesson 5.8
+## Lesson 6.5
 ### Welcome!
 
-In this lesson, you will apply what you have learned to decorate the area around the barn and fields behind you.
+In this lesson, you will apply what you have learned to design and build your very own park.
 
-For more instructions, go to Lesson 8 in your book. Be sure to read all the instructions. There are also some sample ideas you may choose to build. 
+For more instructions, go to Lesson 5 in your book. Be sure to read all the instructions. There are also some sample ideas you may choose to build. 
 
 As you code, make sure you DO NOT delete any of the code that you have successfully used. At the end of the lesson, you can show off what you have built, and your code to your parent/guardian.
 
