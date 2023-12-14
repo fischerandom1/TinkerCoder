@@ -27,7 +27,7 @@ while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
 
 In this lesson, you will apply what you have learned to solve a series of mazes.
 
-For more instructions, go to Lesson 5 in your book. Be sure to read all the instructions. There are also some sample ideas you may choose to build. 
+For more instructions, go to Lesson 5 in your book. Be sure to read all the instructions. There are also some hints to help you. 
 
 As you code, make sure you DO NOT delete any of the code that you have successfully used. At the end of the lesson, you can show off what you have built, and your code to your parent/guardian.
 
