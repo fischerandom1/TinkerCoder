@@ -22,7 +22,7 @@ blocks.fill(
 ## Lesson 6.6
 ### Welcome!
 
-In this lesson, you will apply what you have learned to build the structure of a house using just the 'fill block' coding block..
+In this lesson, you will apply what you have learned to build the structure of a house using just the 'fill block' coding block.
 
 For more instructions, go to Lesson 6 in your book. Be sure to read all the instructions. There are also some sample ideas you may choose to build. 
 
