@@ -16,7 +16,7 @@ player.onChat("run", function () {
 ```
 
 # Tinker Coder
-## Lesson 7.6
+## Lesson 7.6.1
 ### Welcome!
 
 In this lesson, you will learn about the basics of redstone.
