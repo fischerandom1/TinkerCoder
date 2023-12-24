@@ -10,8 +10,6 @@ player.onChat("run", function () {
 <!-- blocks you want available to players, based on js code -->
 ```blocks
 player.onChat("run", function () {
-    gameplay.setWeather(CLEAR)
-    gameplay.timeSet(gameplay.time(DAY))
 })
 
 ```
