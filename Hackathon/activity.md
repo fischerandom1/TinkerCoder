@@ -30,13 +30,11 @@ while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
 ```
 
 # Tinker Coder
-## Lesson 6.5
+## Hackathon
 ### Welcome!
 
-In this lesson, you will apply what you have learned to design and build your very own park.
+Welcome to the Hackathon! In this event, you will compete to complete a series of challenges as quickly as you can!
 
-For more instructions, go to Lesson 5 in your book. Be sure to read all the instructions. There are also some sample ideas you may choose to build. 
-
-As you code, make sure you DO NOT delete any of the code that you have successfully used. At the end of the lesson, you can show off what you have built, and your code to your parent/guardian.
+Before you start, please listen to the briefing given by your instructors. Your goal will be to finish the event with as many points as you can, as quickly as you can.
 
 <sub>*You must only use the blocks given here. If you are found to be using other blocks, trying to get around the controls of the map, or building yourself, the map will be reset and you will have to start over. No extra time will be given in these cases.*</sub>
