@@ -11,7 +11,7 @@ player.onChat("c1run", function () {
 })
 
 player.onChat("c2start", function () {
-    agent.teleport(world(4, 67, 10), SOUTH)
+    agent.teleport(world(4, 67, 31), SOUTH)
 })
 
 player.onChat("c2run", function () {
