@@ -42,6 +42,8 @@ agent.turn(LEFT_TURN)
 agent.destroy(FORWARD)
 agent.detect()
 
+for (let index = 0; index < 6; index++) {}
+
 if (true) {}
 if (agent.inspect(AgentInspection.Block, FORWARD) == GRASS && false) {} else {}
 
