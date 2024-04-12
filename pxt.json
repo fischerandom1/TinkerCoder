@@ -19,7 +19,7 @@
         "Level8Explorer/activity.md",
         "Level8Builder/activity.md",
         "Trial/activity.md",
-        "Hackathon/Jun24/activity.md"
+        "Hackathon/activity.md"
     ],
     "targetVersions": {
         "target": "1.20.0",
