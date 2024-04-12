@@ -29,7 +29,6 @@ if (true) {}
 if (agent.inspect(AgentInspection.Block, FORWARD) == GRASS && false) {} else {}
 
 while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
-})
 
 ```
 
