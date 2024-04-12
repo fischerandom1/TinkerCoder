@@ -17,18 +17,8 @@ player.onChat("c4", function () {
 
 <!-- blocks you want available to players, based on js code -->
 ```blocks
-player.onChat("run", function () {})
-
 agent.teleportToPlayer()
-agent.move(FORWARD, 1)
-agent.turn(LEFT_TURN)
-agent.destroy(FORWARD)
-agent.detect()
 
-if (true) {}
-if (agent.inspect(AgentInspection.Block, FORWARD) == GRASS && false) {} else {}
-
-while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
 
 ```
 
