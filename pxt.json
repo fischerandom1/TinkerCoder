@@ -21,7 +21,8 @@
         "Trial/activity.md",
         "HackathonSR/activity.md",
         "HackathonJR/activity.md",
-        "Hackathon/activity.md"
+        "Hackathon/activity.md",
+        "LessonC1/activity.md"
     ],
     "targetVersions": {
         "target": "1.20.0",
