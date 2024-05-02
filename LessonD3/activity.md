@@ -34,7 +34,7 @@ for (let index = 0; index < 4; index++) {}
 ```
 
 # Tinker Coder
-## Module D Lesson 2
+## Module D Lesson 3
 ### Welcome!
 
 In this lesson, you will learn how to make the Minecraft Agent repeat its actions with loops
