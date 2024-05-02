@@ -2,7 +2,6 @@
 
 <!-- block combinations that will show up by default in their workspace -->
 ```template
-
 player.onChat("l", function () {
     agent.turn(LEFT_TURN)
 })
