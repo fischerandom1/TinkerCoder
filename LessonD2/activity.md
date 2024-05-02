@@ -35,4 +35,3 @@ agent.setItem(GRASS, 1, 1)
 ### Welcome!
 
 In this lesson, you will learn how to make the Minecraft Agent build and break things
-
