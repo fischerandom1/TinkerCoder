@@ -27,6 +27,7 @@ agent.turn(LEFT_TURN)
 agent.place(FORWARD)
 agent.destroy(FORWARD)
 agent.setItem(GRASS, 1, 1)
+agent.setSlot(1)
 
 ```
 
