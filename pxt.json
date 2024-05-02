@@ -23,7 +23,11 @@
         "HackathonJR/activity.md",
         "Hackathon/activity.md",
         "LessonC1/activity.md",
-        "LessonD1/activity.md"
+        "LessonD1/activity.md",
+        "LessonD2/activity.md",
+        "LessonD3/activity.md",
+        "LessonD4/activity.md",
+        "LessonD5/activity.md"
     ],
     "targetVersions": {
         "target": "1.20.0",
