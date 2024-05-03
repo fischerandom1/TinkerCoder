@@ -15,7 +15,6 @@ player.onChat("a", function () {
 player.onChat("tele", function () {
     agent.teleportToPlayer()
 })
-
 ```
 
 <!-- blocks you want available to players, based on js code -->
