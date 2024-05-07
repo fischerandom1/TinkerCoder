@@ -3,28 +3,28 @@
 
 <!-- block combinations that will show up by default in their workspace -->
 ```template
-player.onChat("c1start", function () {
+player.onChat("c1", function () {
     agent.teleport(world(18, 67, 30), SOUTH)
 })
 
 player.onChat("c1run", function () {
 })
 
-player.onChat("c2start", function () {
+player.onChat("c2", function () {
     agent.teleport(world(3, 67, 30), SOUTH)
 })
 
 player.onChat("c2run", function () {
 })
 
-player.onChat("c3start", function () {
+player.onChat("c3", function () {
     agent.teleport(world(26, 67, 21), NORTH)
 })
 
 player.onChat("c3run", function () {
 })
 
-player.onChat("c4start", function () {
+player.onChat("c4", function () {
     agent.teleport(world(3, 67, 21), NORTH)
 })
 
