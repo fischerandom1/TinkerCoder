@@ -27,6 +27,9 @@ agent.move(FORWARD, 1)
 agent.turn(LEFT_TURN)
 agent.destroy(FORWARD)
 agent.detect()
+agent.place(FORWARD)
+agent.setItem(GRASS, 1, 1)
+agent.setSlot(1)
 
 if (true) {}
 if (agent.inspect(AgentInspection.Block, FORWARD) == GRASS && false) {} else {}
