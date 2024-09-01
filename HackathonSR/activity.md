@@ -34,6 +34,7 @@ agent.setSlot(1)
 if (true) {}
 if (agent.inspect(AgentInspection.Block, FORWARD) == GRASS && false) {} else {}
 
+for (let index = 0; index < 4; index++) {}
 while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
 
 ```
