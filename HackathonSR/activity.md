@@ -5,15 +5,32 @@
 ```template
 
 player.onChat("c1run", function () {
+
 })
 
+player.onChat("c1tele", function () {
+  agent.teleport(world(287, 19, -200), WEST)
+})
 
 player.onChat("c2run", function () {
 })
 
-
+player.onChat("c2tele", function () {
+  agent.teleport(world(178, 19, -194), SOUTH)
+})
 
 player.onChat("c3run", function () {
+})
+
+player.onChat("c3tele", function () {
+  agent.teleport(world(178, 19, -158), SOUTH)
+})
+
+player.onChat("c4run", function () {
+})
+
+player.onChat("c4tele", function () {
+  agent.teleport(world(178, 19, -110), SOUTH)
 })
 
 ```
