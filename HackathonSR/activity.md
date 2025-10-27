@@ -45,7 +45,7 @@ while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
 
 ```
 
-# Techcation 2025!!
+# QQTechcation 2025
 ## Minecraft Addons
 ### Welcome!
 
