@@ -15,8 +15,8 @@ agent.teleportToPlayer()
 agent.move(FORWARD, 1)
 agent.turn(LEFT_TURN)
 agent.place(FORWARD)
-agent.till()
 agent.destroy(FORWARD)
+agent.till()
 agent.setItem(GRASS, 1, 1)
 agent.setSlot(1)
 agent.detect()
@@ -28,12 +28,12 @@ while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
 ```
 
 # Tinker Coder
-## Lesson 5.8
+## Lesson 5.5
 ### Welcome!
 
-In this lesson, you will apply what you have learned to decorate the area around the barn and fields behind you.
+In this lesson, you will apply what you have learned to decorate the area around the house behind you.
 
-For more instructions, go to Lesson 8 in your book. Be sure to read all the instructions. There are also some sample ideas you may choose to build. 
+For more instructions, go to Lesson 5 in your book. Be sure to read all the instructions. There are also some sample ideas you may choose to build. 
 
 As you code, make sure you DO NOT delete any of the code that you have successfully used. At the end of the lesson, you can show off what you have built, and your code to your parent/guardian.
 
