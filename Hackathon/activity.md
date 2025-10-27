@@ -8,24 +8,22 @@ player.onChat("tele", function () {
 ```
 
 <!-- blocks you want available to players, based on js code -->
-```blocks
 player.onChat("run", function () {})
 
-agent.teleportToPlayer()
+agent.teleport(world(3, 67, 21), NORTH)
 agent.move(FORWARD, 1)
 agent.turn(LEFT_TURN)
 agent.destroy(FORWARD)
 agent.detect()
+agent.place(FORWARD)
+agent.setItem(GRASS, 1, 1)
+agent.setSlot(1)
 
 if (true) {}
 if (agent.inspect(AgentInspection.Block, FORWARD) == GRASS && false) {} else {}
 
+for (let index = 0; index < 4; index++) {}
 while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
-
-player.onChat("get", function () {
-    agent.transfer(1, 64, AgentTransfer.TO_PLAYER)
-})
-
 
 ```
 
