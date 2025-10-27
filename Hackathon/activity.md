@@ -29,12 +29,12 @@ player.onChat("get", function () {
 
 ```
 
-# Tinker Coder
+# Minecraft Addons
 ## Hackathon
 ### Welcome!
 
-Welcome to the Hackathon! In this event, you will compete to complete a series of challenges as quickly as you can!
+Welcome to the Squid Game! In this event, you will compete to complete a series of challenges as quickly as you can!
 
-Before you start, please listen to the briefing given by your instructors. Your goal will be to finish the event with as many points as you can, as quickly as you can.
+Before you start, please listen to the briefing given by your instructors. Your goal will be to finish the event with as many Diamodnds as you can, as quickly as you can.
 
 <sub>*You must only use the blocks given here. If you are found to be using other blocks, trying to get around the controls of the map, or building yourself, the map will be reset and you will have to start over. No extra time will be given in these cases.*</sub>
