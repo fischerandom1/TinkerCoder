@@ -22,6 +22,11 @@ if (agent.inspect(AgentInspection.Block, FORWARD) == GRASS && false) {} else {}
 
 while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
 
+player.onChat("get", function () {
+    agent.transfer(1, 64, AgentTransfer.TO_PLAYER)
+})
+
+
 ```
 
 # Tinker Coder
