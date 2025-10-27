@@ -1,54 +1,40 @@
 ### @hideIteration true 
 
-<!-- Minimal starter: only a teleport helper -->
+<!-- block combinations that will show up by default in their workspace -->
 ```template
 player.onChat("tele", function () {
     agent.teleportToPlayer()
 })
 ```
 
-<!-- Blocks: curated palette -->
+<!-- blocks you want available to players, based on js code -->
 ```blocks
-// --- Chat & basic structure ---
 player.onChat("run", function () {})
-player.say("Ready!")
 
-// --- Agent core controls ---
 agent.teleportToPlayer()
 agent.move(FORWARD, 1)
-agent.move(BACK, 1)
 agent.turn(LEFT_TURN)
-agent.turn(RIGHT_TURN)
-agent.destroy(FORWARD)
 agent.place(FORWARD)
-agent.collectAll()
-agent.setItem(PLANKS_OAK, 64, 1)   // item, count, slot
-agent.setActiveSlot(1)
+agent.till()
+agent.destroy(FORWARD)
+agent.setItem(GRASS, 1, 1)
+agent.setSlot(1)
+agent.detect()
 
-// --- Sensing / decisions ---
-agent.detect(AgentDetection.Block, FORWARD)
-agent.inspect(AgentInspection.Block, FORWARD)
-if (true) {} else {}
-if (agent.detect(AgentDetection.Block, FORWARD)) {}
-if (agent.inspect(AgentInspection.Block, FORWARD) == GRASS) {}
+for (let index = 0; index < 4; index++) {}
 
-// --- Loops (bounded & conditional) ---
-for (let i = 0; i < 4; i++) {}
 while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
 
-// --- Variables & math helpers ---
-let steps = 5
-steps = steps + 1
-0 < 1
-true && false
 ```
 
 # Tinker Coder
-## Hackathon
+## Lesson 5.8
 ### Welcome!
 
-Welcome to the Hackathon! In this event, you will compete to complete a series of challenges as quickly as you can!
+In this lesson, you will apply what you have learned to decorate the area around the barn and fields behind you.
 
-Before you start, please listen to the briefing given by your instructors. Your goal will be to finish the event with as many points as you can, as quickly as you can.
+For more instructions, go to Lesson 8 in your book. Be sure to read all the instructions. There are also some sample ideas you may choose to build. 
+
+As you code, make sure you DO NOT delete any of the code that you have successfully used. At the end of the lesson, you can show off what you have built, and your code to your parent/guardian.
 
 <sub>*You must only use the blocks given here. If you are found to be using other blocks, trying to get around the controls of the map, or building yourself, the map will be reset and you will have to start over. No extra time will be given in these cases.*</sub>
