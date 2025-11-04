@@ -45,9 +45,8 @@ while (!(agent.detect(AgentDetection.Block, FORWARD))) {}
 
 ```
 
-# QQTechcation 2025
-## Minecraft Addons
+## Minecraft 
 ### Welcome!
 
-Welcome to the Minecraft Addons! In this event, you will apply what u have learned to complete the tasks ahead
+Welcome to the Minecraft Addons! In this event, you will use the agent to complete the tasks ahead
 
